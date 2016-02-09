@@ -18,7 +18,7 @@ do. Talk to me if you reeeeally want to build on Windows.
 
 On Linux, you need to have the PyQt4 and pygame libraries installed:
 
-Debian: apt-get install python-qt4 python-pgame
+Debian: apt-get install python-qt4 python-pygame
 Arch: pacman -S pyqt4 python-pygame
 
 then run ./pesterchum (basically a shell script that runs python pesterchum.py)
